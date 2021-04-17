@@ -1,0 +1,19 @@
+﻿İLK ONCE RARDAN CIKARTIP MASAÜSTÜNE ATIN KLASÖR ŞEKLİNDE ŞU ŞEKİLDE https://cerebrum.is-inside.me/9m7awo7X.png
+
+AÇICAKSINIZ İÇİNİ HANGİ JSONU DÜZENLEYECEKSENİZ ONU KLASÖRÜN İÇİNE ATIN BEN MESELA "messages.json" ADLI ŞEYİ ATTIM https://cerebrum.is-inside.me/MosaV2IZ.png
+
+SONRA RUN.BAT I ÇALIŞTIRIN(PC DE JAVA YÜKLÜ OLSUN) "https://cerebrum.is-inside.me/hN5dDOcK.png" BURAYA JSONUN İSMİNİ (İSİM.JSON) ŞEKLİNDE GİRİN BENİMKİ "messages.json" BEN BÖYLE GİRCEM https://cerebrum.is-inside.me/lPuyQWR9.png şu şekil
+
+YAZDIKTAN SONRA BOYLE BİSİ CİKCAK https://cerebrum.is-inside.me/UYlIcoSd.png 
+
+1. SECENEK SADECE CC NOLARİNİ CEKER
+
+2. SECENEK SADECE KART NUMARA VE BİLGİLERİNİ ÇEKER
+
+3. SECENEK KART NUMARA VE CC NOLARİNİ BİRLİKTE CEKER(ÖNERİM)
+
+SEÇTİKTEN  SONRA https://cerebrum.is-inside.me/lWp9j7q8.png DATADA KAÇ KART CIKTIGINI YAZAR 
+
+SONRA BİR TUŞA BASIN KAPATIN KLASÖRE BAKIN .TXT İCİNDE TÜM DATALARINIZ ORDA 
+
+Yarramı ye 31
